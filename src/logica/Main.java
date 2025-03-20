@@ -23,7 +23,7 @@ public class Main {
             if(opcion == 1){
                 System.out.println("Ingrese el nombre del cliente: ");
                 String nombre = tecladoString.nextLine();
-                System.out.println("Ingrese el numero de tarjeta: ");
+                System.out.println("Ingrese el numero de tarjeta (debe contener 1122): ");
                 String numTarjeta = tecladoString.nextLine();
 
                 if(s.hacerReservas(nombre, numTarjeta)){
