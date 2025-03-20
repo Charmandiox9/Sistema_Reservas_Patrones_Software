@@ -1,5 +1,5 @@
 # Sistema de Reservas de Hotel
-##Patrones de Programación y Software
+## Patrones de Programación y Software
 - Daniel Durán
 
 
